@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm UDAY KIRAN<br><br>- 🔭 I’m Student 😊<br>- 📚 I'm currently learning Backend Technologies<br>- ⚡ In my free time I used to develop the websites🎈</p>
+<p align="left">I'm UDAY KIRAN<br><br>- 🔭 I’m a Student 😊<br>- 📚 I'm currently learning Backend Technologies<br>- ⚡ In my free time I used to develop the websites🎈</p>
 
 ###
 
