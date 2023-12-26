@@ -75,6 +75,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mudaykirann/Mudaykirann/output/snake.svg" alt="Snake animation" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudaykirann&show_icons=true&locale=en&layout=compact" alt="mudaykirann" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudaykirann&show_icons=true&locale=en" alt="mudaykirann" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudaykirann&" alt="mudaykirann" /></p>
 
 ###
