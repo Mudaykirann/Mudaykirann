@@ -81,23 +81,7 @@
 
 <h3 align="left">🔥  My Stats :</h3>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mudaykirann&show_icons=true&count_private=true&theme=dark&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudaykirann&layout=compact&theme=dark&hide_border=true" 
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Mudaykirann&theme=dark&hide_border=true" 
-    height="170"
-  />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mudaykirann&theme=dark" alt="GitHub Streak" /></a>
 
 
 ###
